@@ -1,0 +1,7 @@
+C:\Users\exc\Desktop\PRAKT\UP\ind_3_Kaigorodov\ind_3_Kaigorodov\bin\Debug\ind_3_Kaigorodov.exe.config
+C:\Users\exc\Desktop\PRAKT\UP\ind_3_Kaigorodov\ind_3_Kaigorodov\bin\Debug\ind_3_Kaigorodov.exe
+C:\Users\exc\Desktop\PRAKT\UP\ind_3_Kaigorodov\ind_3_Kaigorodov\bin\Debug\ind_3_Kaigorodov.pdb
+C:\Users\exc\Desktop\PRAKT\UP\ind_3_Kaigorodov\ind_3_Kaigorodov\obj\Debug\ind_3_Kaigorodov.csproj.AssemblyReference.cache
+C:\Users\exc\Desktop\PRAKT\UP\ind_3_Kaigorodov\ind_3_Kaigorodov\obj\Debug\ind_3_Kaigorodov.csproj.CoreCompileInputs.cache
+C:\Users\exc\Desktop\PRAKT\UP\ind_3_Kaigorodov\ind_3_Kaigorodov\obj\Debug\ind_3_Kaigorodov.exe
+C:\Users\exc\Desktop\PRAKT\UP\ind_3_Kaigorodov\ind_3_Kaigorodov\obj\Debug\ind_3_Kaigorodov.pdb
